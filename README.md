@@ -8,7 +8,8 @@
 # Roadmap to Competitive Programming
 ![[Road map to Competitive Programming]((https://docs.google.com/presentation/d/1eeaureRTP7NoLxn6i5XzuN7oxJ9ii5bvIulOPFm9OYk/edit?usp=sharing)](https://user-images.githubusercontent.com/72208365/113518860-81d10100-95a6-11eb-973d-f15c73681085.png)
 <br>
-[**See full slides**](https://docs.google.com/presentation/d/1eeaureRTP7NoLxn6i5XzuN7oxJ9ii5bvIulOPFm9OYk/edit?usp=sharing)
+
+[<h2 align="center">**See full slides**<h2 align="center">](https://docs.google.com/presentation/d/1eeaureRTP7NoLxn6i5XzuN7oxJ9ii5bvIulOPFm9OYk/edit?usp=sharing)
 <!--
 <p align="center">This is a centered caption for the image<p align="center">
 (https://docs.google.com/presentation/d/1eeaureRTP7NoLxn6i5XzuN7oxJ9ii5bvIulOPFm9OYk/edit?usp=sharing)
