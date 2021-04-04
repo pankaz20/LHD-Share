@@ -6,7 +6,7 @@
 
 
 # Roadmap to Competitive Programming
-![LHD-Share](https://docs.google.com/presentation/d/1eeaureRTP7NoLxn6i5XzuN7oxJ9ii5bvIulOPFm9OYk/edit?usp=sharing)
+![Road map](https://drive.google.com/file/d/1xDYy-MuZNEKmz0Ou2BG6iT8vKn7GepDM/view)
 
 <!--
 <p align="center">This is a centered caption for the image<p align="center">
